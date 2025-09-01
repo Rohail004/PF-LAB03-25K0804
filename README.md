@@ -1,2 +1,1 @@
-# PF-LAB03-25K0804
-pf lab repo
+Hey there, So I am a student at FAST studying computer science. I have a keen interest in Robotics due to which I am quite excited to learn C++ and Python. So i can work on my hobby projects. 
