@@ -1,1 +1,1 @@
-Hey there, So I am a student at FAST studying computer science. I have a keen interest in Robotics due to which I am quite excited to learn C++ and Python. So i can work on my hobby projects. 
+Hey there, So I am a student at FAST studying computer science. I have a keen interest in Robotics due to which I am quite excited to learn C++ and Python. So i can work on my hobby projects, and build a valuable career out of it.
